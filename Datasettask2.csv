@@ -1,0 +1,94 @@
+﻿Name,Age,Email,Phone,Address
+John Doe,32,johndoe@email,555-1234,123 Main St
+Jane Smith,28,janesmith@email,555-5678,456 Oak Ave
+Bob Johnson,45,bobjohnson@email,555-9876,789 Pine Rd
+Sara,26,sara@email,555-4321,Missing Address
+David Williams,35,david@email,555-8765,890 Cedar St
+,22,,555-8765,678 Elm Ave
+Chris Brown,38,chris@email,555-2345,345 Maple Rd
+Emma White,,emma@email,555-7890,567 Birch St
+Michael Davis,41,michael@email,,Missing Address
+Alice Turner,NaN,aliceturner@email,555-3456,456 Pine Ave
+Bill,30,bill@email,555-6543,Missing Address
+Sophie King,29,sophie@email,555-8901,789 Oak Rd
+Tom,NaN,tom@email,555-2109,890 Cedar Ave
+Linda,45,linda@email,555-1098,123 Elm St
+Gary Robinson,50,gary@email,555-9012,456 Birch Ave
+Olivia,27,olivia@email,555-6789,Missing Address
+Robert,34,robert@email,555-3210,567 Pine Rd
+,29,,555-6789,678 Oak St
+Emily,36,emily@email,555-5432,789 Elm Rd
+Jacob,31,jacob@email,555-8901,890 Maple Ave
+Sophia,25,sophia@email,555-4321,123 Cedar Rd
+Benjamin,39,benjamin@email,555-2109,456 Pine Ave
+Ava,33,ava@email,555-9876,Missing Address
+Michael,37,michael@email,555-6543,789 Elm St
+,40,,555-3210,890 Birch Rd
+Isabella,24,isabella@email,555-1098,123 Maple St
+Liam,NaN,liam@email,555-9012,456 Oak Ave
+,35,,555-4321,567 Cedar Rd
+Emma,26,emma@email,555-7890,Missing Address
+William,42,william@email,555-8765,678 Pine Ave
+,28,,555-5432,789 Oak Rd
+Mia,23,mia@email,555-2109,890 Elm St
+,29,,555-6789,123 Birch Rd
+Alexander,31,alexander@email,555-3210,456 Maple Ave
+,44,,555-9876,567 Cedar St
+,38,,555-6543,678 Oak Rd
+,27,,555-8901,789 Cedar Ave
+Charlotte,32,charlotte@email,555-4321,890 Elm Rd
+Mason,29,mason@email,555-1098,123 Pine St
+,35,,555-9012,456 Oak Rd
+Aria,26,aria@email,555-5432,567 Elm Ave
+Liam,30,liam@email,555-8765,Missing Address
+Ella,35,ella@email,555-2109,678 Pine Rd
+,41,,555-6789,789 Cedar St
+Henry,28,henry@email,555-3210,890 Birch Ave
+,37,,555-9876,123 Maple Rd
+,32,,555-6543,456 Pine St
+,39,,555-9012,567 Cedar Ave
+Aiden,36,aiden@email,555-4321,678 Elm Rd
+,NaN,,555-5432,789 Maple Ave
+,27,,555-8901,890 Cedar Rd
+,34,,555-1098,123 Elm St
+,40,,555-9012,456 Birch Ave
+,NaN,,555-6543,567 Pine Rd
+,32,,555-3210,678 Oak St
+,28,,555-5432,789 Elm Rd
+,30,,555-2109,890 Maple Ave
+,26,,555-8765,123 Cedar Rd
+,33,,555-6789,456 Pine Ave
+,35,,555-4321,567 Oak St
+,29,,555-5432,678 Elm Rd
+,31,,555-7890,789 Cedar Ave
+,34,,555-9012,890 Elm Rd
+,28,,555-4321,123 Birch Rd
+,30,,555-7890,456 Maple Ave
+,33,,555-8765,567 Cedar St
+,31,,555-2109,678 Oak Rd
+,29,,555-6789,789 Pine Ave
+,28,,555-3210,890 Birch Rd
+,26,,555-9012,123 Maple St
+,32,,555-6543,456 Oak Rd
+,33,,555-5432,567 Elm Ave
+,31,,555-2109,678 Pine Rd
+,29,,555-8765,789 Cedar St
+,28,,555-4321,890 Cedar Ave
+,26,,555-9012,123 Elm St
+,27,,555-6543,456 Birch Ave
+,30,,555-7890,567 Pine Rd
+,32,,555-4321,678 Oak St
+,34,,555-8765,789 Elm Rd
+,36,,555-5432,890 Maple Ave
+,38,,555-2109,123 Cedar Rd
+,40,,555-9012,456 Pine Ave
+,42,,555-6789,567 Oak St
+,44,,555-8765,678 Elm Rd
+,46,,555-5432,789 Cedar Ave
+,48,,555-3210,890 Elm Rd
+,50,,555-2109,123 Birch Rd
+,52,,555-9012,456 Maple Ave
+,54,,555-6789,567 Cedar St
+,56,,555-4321,678 Oak Rd
+,58,,555-8765,789 Pine Ave
+,60,,555-5432,890 Birch Rd
